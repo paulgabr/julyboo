@@ -1,6 +1,6 @@
 const botaoAbrir = document.getElementById('menuAbrir');
 const botaoFechar = document.getElementById('menuFechar');
-const menu = document.getElementById('menuPrincipal');
+const menu = document.querySelector('.menuPrincipal');
 
 botaoAbrir.addEventListener('click', abrirMenu);
 botaoFechar.addEventListener('click', fecharMenu);

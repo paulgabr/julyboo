@@ -213,6 +213,7 @@ div img{
     display: inline-block;
     color: rgb(156, 111, 111);
     padding: 50px;
+    text-decoration: none;
 }
 
 .whatsapp a{
